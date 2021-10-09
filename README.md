@@ -32,4 +32,4 @@ You can play the game on any web browser by opening flappyfish/www/index.html.
 
 ### Screenshots
 
-[](screenshot.png)
+![](screenshot.png)
