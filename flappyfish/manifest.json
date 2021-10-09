@@ -1,0 +1,15 @@
+{
+    "name": "flappyfish.collaproductions",
+    "description": "Ubuntu Touch clone of the classic game",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Flappy Fish",
+    "hooks": {
+        "flappyfish": {
+            "apparmor": "flappyfish.apparmor",
+            "desktop":  "flappyfish.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Nicolás Colla <nicolascolla@mail.ru>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
