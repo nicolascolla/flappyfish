@@ -20,7 +20,7 @@ $ cd flappyfish/flappyfish
 $ clickable
 ```
 
-You can play the game in any web browser by opening flappyfish/www/index.html.
+You can play the game on any web browser by opening flappyfish/www/index.html.
 
 ### Known bugs
 
