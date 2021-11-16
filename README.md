@@ -4,6 +4,7 @@
 Ubuntu Touch HTML5 game based on the work of [shuding](https://github.com/shuding/flappybird).
 
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/flappyfish.collaproductions)
+[![](https://i.imgur.com/KIipzE8.png)](https://t.me/collaproductions)
 
 ### Building the app (Ubuntu-based distros)
 
